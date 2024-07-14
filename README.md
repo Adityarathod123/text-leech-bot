@@ -45,7 +45,7 @@
 ```
 start - 🦋 Bot Alive Cheking
 stop - 🛑 Upload stop
-uplod - 🎬 Txt file upload
+TXT - 🎬 Txt file upload
 ```
 
 
@@ -58,6 +58,6 @@ uplod - 🎬 Txt file upload
 </p>
  
 -----
-Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://t.me/Farooq_is_KING) [𝗔𝘀𝗵𝘂𝘁𝗼𝘀𝗵𝗚𝗼𝘀𝘄𝗮𝗺𝗶𝟮𝟰](https://github.com/AshutoshGoswami24)
+Credits: 『ᴹᴿ✿𝐆𝐣_𝐦𝐚𝐟𝐢𝐚 ᏫᎮ』 (https://github.com/Adityarathod123)
 
 Last Edited on: 07/01/2024
